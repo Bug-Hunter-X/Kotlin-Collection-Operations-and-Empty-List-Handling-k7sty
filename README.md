@@ -1,0 +1,1 @@
+This example showcases basic Kotlin collection handling, focusing on potential issues when dealing with empty lists. The code demonstrates list creation, element addition, emptiness checks, and transformations using the map function. It highlights the need for null or empty checks to avoid runtime exceptions.
